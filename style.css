@@ -10,3 +10,12 @@
     background-color: #E76F51;
     border:1px solid #E76F51;
 }
+.text-color{
+    color: #E76F51;
+}
+.icon-color{
+    color: #E67C40;
+}
+.grayscale{
+    filter: grayscale(100%);
+}

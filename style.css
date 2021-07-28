@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-bg{
+    background-color: #264653;
+}
+.button{
+    background-color: #E76F51;
+    border:1px solid #E76F51;
+}
